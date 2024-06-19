@@ -8,7 +8,7 @@ Desarrollar un api rest donde puedan ser mostrado los empleos publicados recient
 
 ## Tecnologias utilizados
 
--	JavaScrip
+-	JavaScript
 -	Nodejs
 -	Express
 - Mysql
